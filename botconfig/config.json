@@ -1,0 +1,41 @@
+{
+  "token" : "ODkxOTAwMjIxNDY0OTIwMTQ0.YVFEzw.v66Hc_-8GFMYwvqMh9j41xXnQwg",
+   "prefix": "^",
+   "ownerIDS": [
+      "732247781447565402"
+   ],
+   
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "1b5aedea6eb04358aaebee7d76047f80",
+      "clientID": "b458566df412473d800daacdd5937e8f"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 60000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 10000
+      },
+      "selfDeaf": true,
+      "serverDeaf": true
+   },
+  
+  "status": {
+    "text": "-help |Made by Tennessine07",
+    "type": "LISTENING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://www.youtube.com/channel/UCtpA93OoN2aP_8xJS0DuGSg"
+  }
+
+}  
